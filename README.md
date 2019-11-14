@@ -1,0 +1,2 @@
+# MouseClicker
+Simulate mouse click
