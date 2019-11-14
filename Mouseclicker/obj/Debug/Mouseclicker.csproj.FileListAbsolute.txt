@@ -1,0 +1,6 @@
+D:\dev\_workspace\csharp\console\Mouseclicker\Mouseclicker\bin\Debug\Mouseclicker.exe.config
+D:\dev\_workspace\csharp\console\Mouseclicker\Mouseclicker\bin\Debug\Mouseclicker.exe
+D:\dev\_workspace\csharp\console\Mouseclicker\Mouseclicker\bin\Debug\Mouseclicker.pdb
+D:\dev\_workspace\csharp\console\Mouseclicker\Mouseclicker\obj\Debug\Mouseclicker.csprojAssemblyReference.cache
+D:\dev\_workspace\csharp\console\Mouseclicker\Mouseclicker\obj\Debug\Mouseclicker.exe
+D:\dev\_workspace\csharp\console\Mouseclicker\Mouseclicker\obj\Debug\Mouseclicker.pdb
